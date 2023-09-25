@@ -1,0 +1,6 @@
+C:/Users/simon/Documents/Brown/2230/build-lab03-convolution-scamposg-Desktop_Qt_6_5_2_MinGW_64_bit-Release/CMakeFiles/lab03.dir
+C:/Users/simon/Documents/Brown/2230/build-lab03-convolution-scamposg-Desktop_Qt_6_5_2_MinGW_64_bit-Release/CMakeFiles/lab03_other_files.dir
+C:/Users/simon/Documents/Brown/2230/build-lab03-convolution-scamposg-Desktop_Qt_6_5_2_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/simon/Documents/Brown/2230/build-lab03-convolution-scamposg-Desktop_Qt_6_5_2_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/simon/Documents/Brown/2230/build-lab03-convolution-scamposg-Desktop_Qt_6_5_2_MinGW_64_bit-Release/CMakeFiles/lab03_autogen_timestamp_deps.dir
+C:/Users/simon/Documents/Brown/2230/build-lab03-convolution-scamposg-Desktop_Qt_6_5_2_MinGW_64_bit-Release/CMakeFiles/lab03_autogen.dir

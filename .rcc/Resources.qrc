@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="resources/amongus.jpg">C:/Users/simon/Documents/Brown/2230/lab03-convolution-scamposg/resources/amongus.jpg</file>
+    <file alias="resources/capybara.jpeg">C:/Users/simon/Documents/Brown/2230/lab03-convolution-scamposg/resources/capybara.jpeg</file>
+    <file alias="resources/graphics_meme.png">C:/Users/simon/Documents/Brown/2230/lab03-convolution-scamposg/resources/graphics_meme.png</file>
+    <file alias="resources/mona_lisa.jpg">C:/Users/simon/Documents/Brown/2230/lab03-convolution-scamposg/resources/mona_lisa.jpg</file>
+    <file alias="resources/rtx_meme.jpeg">C:/Users/simon/Documents/Brown/2230/lab03-convolution-scamposg/resources/rtx_meme.jpeg</file>
+    <file alias="resources/wimdy.jpg">C:/Users/simon/Documents/Brown/2230/lab03-convolution-scamposg/resources/wimdy.jpg</file>
+  </qresource>
+</RCC>
+
